@@ -1,5 +1,5 @@
 # 1974 - M460D - Input Module Schematic.jpg
-Wiki page: [M460D](../../../PAGES/M460D.md)
+Wiki page: [M460D](../../../../PAGES/M460D.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -50,7 +50,7 @@ I0 1
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460D/1974 - M460D - Input Module Schematic.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M460D/SCHEMATICS/1974 - M460D - Input Module Schematic.jpg",
  "sha256": "bf5014dd549b8e2e2636edefbc4da78733df22012acebb48a04643f3782499de",
  "kind": "module",
  "models": [
