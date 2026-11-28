@@ -1,5 +1,5 @@
 # 1974 - M460D - Input Module Schematic.jpg
-Wiki page: [M460D](../../../../PAGES/M460D.md)
+Wiki page: [M460D](../)
 
 
 - **Year:** 1974 (module estimate (family))
